@@ -1,0 +1,3 @@
+class AuthTokenService {
+  String? token;
+}
